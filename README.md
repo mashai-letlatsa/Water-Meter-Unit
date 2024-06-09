@@ -26,7 +26,6 @@ This project is a water meter unit that measures water flow, volume, temperature
 - EEPROM for storing balance and volume
 
 ## Circuit Diagram
-See the circuit diagram by clicking this link below
 ![image](https://github.com/mashai-letlatsa/Water-Meter-Unit/assets/161247807/10aa16b8-dfe6-402b-9fb2-a236273ef36e)
 
 ## Code Explanation
